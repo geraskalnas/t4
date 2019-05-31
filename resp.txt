@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="lt-LT"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="lt-LT"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="lt-LT"
+	itemscope 
+	itemtype="http://schema.org/Article" 
+	prefix="og: http://ogp.me/ns#" >
+    <!--<![endif]-->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>European Hit Radio TOP 40 | European Hit Radio</title>
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+        
+<!-- All in One SEO Pack 2.4.4.1 by Michael Torbert of Semper Fi Web Design[610,645] -->
+<meta name="description"  content="European Hit Radio TOP 40 - pirmadieniais 18:00 val. (monday at 6 PM); kartojimas antradieniais 9:00 val. (repeat tuesday at 9 AM)" />
+
+<meta name="keywords"  content="top,charts,topas,topai,european hit radio,top 40" />
+
+<link rel="canonical" href="http://www.europeanhitradio.lt/top/ehr-top-40/" />
+<!-- /all in one seo pack -->
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.8 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+		var disableStr = 'ga-disable-UA-78567553-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-78567553-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('require', 'linkid', 'linkid.js');
+	__gaTracker('send','pageview');
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.europeanhitradio.lt\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.10"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='bbp-default-css'  href='http://www.europeanhitradio.lt/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.14-6684' type='text/css' media='screen' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://www.europeanhitradio.lt/wp-content/themes/ehr/css/bootstrap.min.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.europeanhitradio.lt/wp-content/themes/ehr/css/style.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='http://www.europeanhitradio.lt/wp-content/themes/ehr/css/slick.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='http://www.europeanhitradio.lt/wp-content/themes/ehr/css/slick-theme.css?ver=4.9.10' type='text/css' media='all' />
+<link rel='stylesheet' id='font-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A400%2C300%2C300italic%2C400italic%2C500%2C500italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=4.9.10' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/www.europeanhitradio.lt","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.europeanhitradio.lt/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.8'></script>
+<script type='text/javascript' src='http://www.europeanhitradio.lt/wp-content/themes/ehr/js/jquery-1.11.3.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?sensor=false&#038;key=AIzaSyBnraR9chylBlLmiQVUa9Ez_EVtvup2jsY&#038;ver=4.9.10'></script>
+<script type='text/javascript' src='http://www.europeanhitradio.lt/wp-content/themes/ehr/js/slick.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='http://www.europeanhitradio.lt/wp-content/themes/ehr/js/bootstrap.min.js?ver=4.9.10'></script>
+<script type='text/javascript' src='http://www.europeanhitradio.lt/wp-content/themes/ehr/js/custom.js?ver=4.9.10'></script>
+<link rel='https://api.w.org/' href='http://www.europeanhitradio.lt/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.europeanhitradio.lt/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.europeanhitradio.lt/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.10" />
+<link rel='shortlink' href='http://www.europeanhitradio.lt/?p=105' />
+<link rel="alternate" type="application/json+oembed" href="http://www.europeanhitradio.lt/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.europeanhitradio.lt%2Ftop%2Fehr-top-40%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.europeanhitradio.lt/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.europeanhitradio.lt%2Ftop%2Fehr-top-40%2F&#038;format=xml" />
+    </head>
+
+    <body class="top-template-default single single-top postid-105">
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/lt_LT/sdk.js#xfbml=1&version=v2.5";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+        <button id="webFit"></button>
+
+        <div id="navigation">
+            <button class="nav"></button>
+            <nav>
+                <div class="menu-pagrindinis-meniu-container"><ul id="menu-pagrindinis-meniu" class=""><li id="menu-item-149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149"><a href="http://www.europeanhitradio.lt/kategorija/naujienos/">Naujienos</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.europeanhitradio.lt/top-40/">Top 40</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.europeanhitradio.lt/nauja/">Nauja!</a></li>
+<li id="menu-item-150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="http://www.europeanhitradio.lt/kategorija/rekomenduojame/">Rekomenduojame</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.europeanhitradio.lt/apie-mus/">Apie mus</a></li>
+<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://www.europeanhitradio.lt/forumas/">Forumas</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://www.europeanhitradio.lt/programa/">Programa</a></li>
+</ul></div>            </nav>
+
+            <div class="menu-papildomas-meniu-container"><ul id="menu-papildomas-meniu" class=""><li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.europeanhitradio.lt/kontaktai/">Kontaktai</a></li>
+<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://www.europeanhitradio.lt/portalo-informacija/">Portalo informacija</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://www.europeanhitradio.lt/reklama-radijuje/">Reklama radijuje</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.europeanhitradio.lt/reklama-portale/">Reklama portale</a></li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.europeanhitradio.lt/atsakomybes-apribojimas/">Atsakomybės apribojimas</a></li>
+<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.europeanhitradio.lt/privatumo-politika/">Privatumo politika</a></li>
+</ul></div>        </div>
+
+        <div id="top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <a href="http://www.europeanhitradio.lt/" class="logo">
+                            <img src="http://www.europeanhitradio.lt/wp-content/themes/ehr/img/logo.png" class="" alt="">
+                        </a>
+                        <button class="nav"></button>
+                    </div>
+                </div>
+
+                                <ul class="information">
+                    <li>
+                        <div class="box dropdown" id="last1">
+                            <div class="image"></div>
+                            <div class="content">
+                                Grojusios dainos                                <div class="song">
+                                    <span class="artist"></span> - <span class="title"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <ul class="more">
+                            <li>
+                                <div class="box" id="last2">
+                                    <div class="image"></div>
+                                    Grojusios dainos                                    <div class="content">
+                                        <div class="song">
+                                            <span class="artist"></span> - <span class="title"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="box" id="last3">
+                                    Grojusios dainos                                    <div class="image"></div>
+                                    <div class="content">
+                                        <div class="song">
+                                            <span class="artist"></span> - <span class="title"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <div class="box" id="current">
+                            <div class="image"></div>
+                            <div class="content">
+                                Dabar eteryje                                <div class="song">
+                                    <span class="artist"></span> - <span class="title"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="box dropdown" id="next1">
+                            <div class="image"></div>
+                            <div class="content">
+                                Kita daina                                <div class="song">
+                                    <span class="artist"></span> - <span class="title"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <ul class="more">
+                            <li>
+                                <div class="box" id="next2">
+                                    <div class="image"></div>
+                                    Kita daina                                    <div class="content">
+                                        <div class="song">
+                                            <span class="artist"></span> - <span class="title"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="box" id="next3">
+                                    <div class="image"></div>
+                                    Kita daina                                    <div class="content">
+                                        <div class="song">
+                                            <span class="artist"></span> - <span class="title"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+<section class="content dark">
+    <div class="container">
+        <!-- Page Header -->
+        <div class="row nm">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 np">
+                <div class="page-heading">EUROPEAN HIT RADIO TOP 40</div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 np">
+                <button class="widget-listen" data-toggle="modal" data-target="#modal-radio">Klausyti online</button>
+            </div>
+        </div>
+
+        <!-- Page Content -->
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                <div class="group">
+                    <div class="section-title">2019 05 20</div>
+                    <div class="section-text">
+                                                    <p>European Hit Radio TOP 40 &#8211; pirmadieniais 18:00 val. (monday at 6 PM); kartojimas antradieniais 9:00 val.<br />
+(repeat tuesday at 9 AM)</p>
+                                            </div>
+                    <div class="top-heading">
+                        <div class="title">Artist Title</div>
+                        <div class="week">This Week</div>
+                        <div class="week last">Last Week</div>
+                    </div>
+                    <ul class="list-top with-playback">
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/billie-ellish-bad-guy-e1555515290154.jpg)"></div>
+                                <div class="place">1</div>
+                                <div class="place last">1</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Billie Eilish -</div>
+                                        bad guy                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Old-Town-Road-lil-nas-x-e1556556806774.jpg)"></div>
+                                <div class="place">2</div>
+                                <div class="place last">2</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Lil Nas X feat. Billy Ray Cyrus -</div>
+                                        Old Town Road                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2019/04/Avicii-feat.-Aloe-Blacc-SOS-e1555514792523.jpg)"></div>
+                                <div class="place">3</div>
+                                <div class="place last">4</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Avicii feat. Aloe Blacc -</div>
+                                        SOS                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="U9Im71aNhYA" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2019/01/giant-e1547537830454.jpg)"></div>
+                                <div class="place">4</div>
+                                <div class="place last">3</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Calvin Harris, Rag'n'Bone Man   -</div>
+                                        Giant                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="HHnjuUVgSJ4" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/max-e1554379310826.png)"></div>
+                                <div class="place">5</div>
+                                <div class="place last">6</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Marshmello Feat. CHVRCHES  -</div>
+                                         Here With Me                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Piece-Of-Your-Heart-meduza-e1556557338329.jpg)"></div>
+                                <div class="place">6</div>
+                                <div class="place last">8</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Meduza feat. Goodboys -</div>
+                                        Piece Of Your Heart                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2019/05/I-Dont-Care-ed-sheeran-justin-bieber-e1558028504121.jpg)"></div>
+                                <div class="place">7</div>
+                                <div class="place last">0</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Ed Sheeran & Justin Bieber -</div>
+                                        I Don't Care                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="HUHC9tYz8ik" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/billie-eilish-bury-friend-video-e1549979844189.jpeg)"></div>
+                                <div class="place">8</div>
+                                <div class="place last">5</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Billie Eilish  -</div>
+                                        Bury a friend                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/81gw-EAWjCL._SS500_-e1557821997636.jpg)"></div>
+                                <div class="place">9</div>
+                                <div class="place last">11</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Taylor Swift feat. Brendon Urie -</div>
+                                        ME!                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="9TQKyDD9Yig" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/mabel-e1554376772332.jpg)"></div>
+                                <div class="place">10</div>
+                                <div class="place last">7</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Mabel  -</div>
+                                        Don't Call Me Up                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="vW1a7CSDp7E" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Khalid-Talk-Video-600x454-e1554378937585.jpg)"></div>
+                                <div class="place">11</div>
+                                <div class="place last">9</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Khalid & Disclosure  -</div>
+                                        Talk                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/If-I-Cant-Have-You-shawn-mendes-e1557822148549.jpg)"></div>
+                                <div class="place">12</div>
+                                <div class="place last">20</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Shawn Mendes -</div>
+                                        If I Can't Have You                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="YysWbPzkgpo" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/jonas-e1554376429603.png)"></div>
+                                <div class="place">13</div>
+                                <div class="place last">10</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Jonas Brothers  -</div>
+                                        Sucker                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Martin-Garrix-feat.-Macklemore-Patrick-Stump-summer-days-e1557822345922.jpg)"></div>
+                                <div class="place">14</div>
+                                <div class="place last">26</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Martin Garrix feat. Macklemore & Patrick Stump -</div>
+                                        Summer Days                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="SxGLPVvNjvY" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/zzz-e1554380027595.jpg)"></div>
+                                <div class="place">15</div>
+                                <div class="place last">15</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Ava Max -</div>
+                                        So Am I                                     </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="dhYOPzcsbGM" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Alan-Walker-Sabrina-Carpenter-Farruko-On-My-Way-e1555515826195.jpg)"></div>
+                                <div class="place">16</div>
+                                <div class="place last">12</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Alan Walker feat. Sabrina Carpenter & Farruko -</div>
+                                        On My Way                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Dynoro-Ina-Wroldsen-obsessed-e1556557417318.jpg)"></div>
+                                <div class="place">17</div>
+                                <div class="place last">17</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Dynoro & Ina Wroldsen -</div>
+                                        Obsessed                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="yaJx0Gj_LCY" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/billie-1-e1554379847440.jpg)"></div>
+                                <div class="place">18</div>
+                                <div class="place last">13</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Billie Eilish  -</div>
+                                        wish you were gay                                     </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="brmW88EO_cI" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Sam-Smith-Normani-DWAS-cover-e1548142665279.jpg)"></div>
+                                <div class="place">19</div>
+                                <div class="place last">14</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Sam Smith, Normani  -</div>
+                                        Dancing With A Stranger                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Jonas-Blue-feat.-Theresa-Rex-what-i-like-about-you-e1555515728404.jpg)"></div>
+                                <div class="place">20</div>
+                                <div class="place last">16</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Jonas Blue feat. Theresa Rex -</div>
+                                        What I Like About You                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Why-Dont-We-Macklemore-i-dont-e1557822276971.jpg)"></div>
+                                <div class="place">21</div>
+                                <div class="place last">23</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Why Don't We & Macklemore -</div>
+                                        I Don't Belong In This Club                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="50VNCymT-Cs" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/alec-e1554378761677.jpg)"></div>
+                                <div class="place">22</div>
+                                <div class="place last">19</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Alec Benjamin  -</div>
+                                        Let Me Down Slowly                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2019/04/Ellie-Goulding-Sixteen-e1555515111310.jpg)"></div>
+                                <div class="place">23</div>
+                                <div class="place last">36</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Ellie Goulding -</div>
+                                        Sixteen                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/daya-insomnia-e1555515510323.jpg)"></div>
+                                <div class="place">24</div>
+                                <div class="place last">24</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Daya -</div>
+                                        Insomnia                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="J1OsKJW51HY" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2017/10/pinkismk-e1554377721235.jpg)"></div>
+                                <div class="place">25</div>
+                                <div class="place last">18</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">P!nk  -</div>
+                                        Walk Me Home                                     </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="DiItGE3eAyQ" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/daddy-e1554377501958.jpg)"></div>
+                                <div class="place">26</div>
+                                <div class="place last">22</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Daddy Yankee & Snow  -</div>
+                                        Con Calma                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="DHwxF48LxPU" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/bones-e1554380157305.jpg)"></div>
+                                <div class="place">27</div>
+                                <div class="place last">31</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Galantis feat OneRepublic -</div>
+                                        Bones                                     </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2019/04/BTS-feat.-Halsey-Boy-With-Luv-e1555514938637.jpg)"></div>
+                                <div class="place">28</div>
+                                <div class="place last">21</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">BTS feat. Halsey -</div>
+                                        Boy With Luv                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="SJOgTMP8cs4" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/hope-e1548144549572.jpg)"></div>
+                                <div class="place">29</div>
+                                <div class="place last">29</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">The Chainsmokers feat Winona Oak -</div>
+                                        Hope                                     </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2019/04/KYGO-Rita-Ora-Carry-On-e1556557941844.jpg)"></div>
+                                <div class="place">30</div>
+                                <div class="place last">0</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">KYGO & Rita Ora -</div>
+                                        Carry On                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="rUmV-MorIKc" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/tame-e1554381244887.jpg)"></div>
+                                <div class="place">31</div>
+                                <div class="place last">35</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Tame Impala  -</div>
+                                        Patience                                     </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="bo_efYhYU2A" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Lady-Gaga-Bradley-Cooper-shallow-e1541335505703.jpg)"></div>
+                                <div class="place">32</div>
+                                <div class="place last">25</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Lady Gaga & Bradley Cooper  -</div>
+                                        Shallow                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="pbMwTqkKSps" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Bilie-e1543838376181.jpg)"></div>
+                                <div class="place">33</div>
+                                <div class="place last">28</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Billie Eilish -</div>
+                                        When the party's over                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="m8lICbtXlMo" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/tom-e1554380658761.jpg)"></div>
+                                <div class="place">34</div>
+                                <div class="place last">27</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Tom Walker feat Zara Larsson -</div>
+                                        Now You're Gone                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="ZAfAud_M_mg" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Without-Mehalsey-e1541335965905.jpg)"></div>
+                                <div class="place">35</div>
+                                <div class="place last">30</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Halsey -</div>
+                                        Without Me                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="LH4Y1ZUUx2g" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/ariana-e1554377261214.png)"></div>
+                                <div class="place">36</div>
+                                <div class="place last">33</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Ariana Grande -</div>
+                                        Break up with your girlfriend, i'm bored                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Walk-Me-Home-pink-e1557822512919.jpg)"></div>
+                                <div class="place">37</div>
+                                <div class="place last">34</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">P!nk -</div>
+                                        Walk Me Home                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image" data-yt="" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/Power-Is-Power-sza-weeknd-e1558884395253.jpg)"></div>
+                                <div class="place">38</div>
+                                <div class="place last">0</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">SZA, The Weeknd, Travis Scott -</div>
+                                        Power Is Power                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="fTNnwzXrVdg" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/bebe-e1554378565490.jpg)"></div>
+                                <div class="place">39</div>
+                                <div class="place last">32</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Bebe Rexha  -</div>
+                                        Last Hurrah                                    </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="image wide yt" data-yt="A9hcJgtnm6Q" style="background-image: url(http://www.europeanhitradio.lt/wp-content/uploads/2016/01/mark-ronson-miley-cyrus-3-e1544516363584.jpg)"></div>
+                                <div class="place">40</div>
+                                <div class="place last">38</div>
+                                <div class="content">
+                                    <div class="song">
+                                        <div class="artist">Mark Ronson feat. Miley Cyrus -</div>
+                                        Nothing Breaks Like a Heart                                    </div>
+                                </div>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+            
+            
+                    </div>
+    </div>
+</section>
+
+
+
+<footer>
+    <div class="content">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="section-title">European Hit Radio Lietuvoje</div>
+                    <div class="freq">
+                        <div>
+                            Vilnius <span>99,7 FM</span>
+                        </div>
+                        <div>
+                            Kaunas <span>102,5 FM</span>
+                        </div>
+                        <div>
+                            Klaipėda <span>96,2 FM</span>
+                        </div>
+                    </div>
+                                            <div class="facebook">
+                            Sekite mus:                            <a href="https://www.facebook.com/EuropeanHitRadioLt" target="_blank">
+                                <img src="http://www.europeanhitradio.lt/wp-content/themes/ehr/img/social-facebook-label.png" alt="">
+                            </a>
+                        </div>
+                                    </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                    <nav>
+                        <div class="menu-pagrindinis-meniu-container"><ul id="menu-pagrindinis-meniu-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149"><a href="http://www.europeanhitradio.lt/kategorija/naujienos/">Naujienos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.europeanhitradio.lt/top-40/">Top 40</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.europeanhitradio.lt/nauja/">Nauja!</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150"><a href="http://www.europeanhitradio.lt/kategorija/rekomenduojame/">Rekomenduojame</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.europeanhitradio.lt/apie-mus/">Apie mus</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-171"><a href="http://www.europeanhitradio.lt/forumas/">Forumas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://www.europeanhitradio.lt/programa/">Programa</a></li>
+</ul></div>                    </nav>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
+                    <div class="menu-papildomas-meniu-container"><ul id="menu-papildomas-meniu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.europeanhitradio.lt/kontaktai/">Kontaktai</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://www.europeanhitradio.lt/portalo-informacija/">Portalo informacija</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="http://www.europeanhitradio.lt/reklama-radijuje/">Reklama radijuje</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.europeanhitradio.lt/reklama-portale/">Reklama portale</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.europeanhitradio.lt/atsakomybes-apribojimas/">Atsakomybės apribojimas</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.europeanhitradio.lt/privatumo-politika/">Privatumo politika</a></li>
+</ul></div>                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyrights">
+        <div class="container">
+            <div class="rights">© UAB „Radiola” European Hit Radio</div>
+
+            <div class="author">
+                Svajonių įgyvendinimas: <a href="http://www.itdreams.lt" target="_blank">IT DREAMS</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<a class="back-to-top" href="#top"></a>
+
+<div class="modal fade" id="modal-youtube" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-box modal-lg">
+        <div class="modal-body">
+            <iframe width="100%" height="376" frameborder="0" allowfullscreen=""></iframe>
+        </div>
+    </div>
+</div>
+
+<!-- Modal Radio -->
+<div class="modal fade" id="modal-radio" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-box">
+        <div class="modal-header">
+            <a href="http://www.europeanhitradio.lt/" class="logo">
+                <img src="http://www.europeanhitradio.lt/wp-content/themes/ehr/img/logo.png" alt="">
+            </a>
+                                        <audio controls id="live_stream">
+                    <source src="http://82.135.234.195:8000/ehr.mp3" type="audio/mpeg">
+                </audio>
+                <div class="actions">
+                    <button class="state"></button>
+                    <button class="volume">
+                        <span></span>
+                    </button>
+                </div>
+                    </div>
+        <div class="modal-body">
+            <div class="image" id="current-f-image">
+                <img src="" alt="">
+            </div>
+            <ul class="information clearfix">
+                <li>
+                    <div class="box now" id="current-f">
+                        <div class="content">
+                            Dabar eteryje                            <div class="song">
+                                <span class="artist"></span> - <span class="title"></span>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="box dropdown" id="next1-f">
+                        <div class="image"></div>
+                        <div class="content">
+                            Kita daina                            <div class="song">
+                                <span class="artist"></span> - <span class="title"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <ul class="more">
+                        <li>
+                            <div class="box" id="next2-f">
+                                <div class="image"></div>
+                                Kita daina                                <div class="content">
+                                    <div class="song">
+                                        <span class="artist"></span> - <span class="title"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="box" id="next3-f">
+                                Kita daina                                <div class="image"></div>
+                                <div class="content">
+                                    <div class="song">
+                                        <span class="artist"></span> - <span class="title"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <div class="box dropdown" id="last1-f">
+                        <div class="image"></div>
+                        <div class="content">
+                            Grojusios dainos                            <div class="song">
+                                <span class="artist"></span> - <span class="title"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <ul class="more">
+                        <li>
+                            <div class="box" id="last2-f">
+                                <div class="image"></div>
+                                Grojusios dainos                                <div class="content">
+                                    <div class="song">
+                                        <span class="artist"></span> - <span class="title"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="box" id="last3-f">
+                                Grojusios dainos                                <div class="image"></div>
+                                <div class="content">
+                                    <div class="song">
+                                        <span class="artist"></span> - <span class="title"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+                            <div class="modal-footer">
+                <div class="section-title">Pasirinkti kitą formatą</div>
+                <ul class="types">
+                                            <li><a href="http://84.46.162.57:8000/ehr.m3u">.aac -32</a></li>
+                                            <li><a href="http://84.46.162.57:8000/ehr2.m3u">.aac -64</a></li>
+                                            <li><a href="http://82.135.234.195:8000/ehr.aac.m3u">.aac -128</a></li>
+                                            <li><a href="http://84.46.162.57:8000/ehr_m">.ogg -128</a></li>
+                                    </ul>
+            </div>
+            </div>
+</div>
+
+<script>
+    var url_player = 'http://www.europeanhitradio.lt/grotuvas/';
+            var scroll_to_listen = true;
+    </script>
+
+<!-- iBILLBOARD Ad Server one2many code -->
+<script type='text/javascript' src="http://keytarget.adnet.lt/js/init-for-BBEposCodes-withExtra.js"></script>
+<script type='text/javascript' charset='utf-8' src='http://go.adlt.bbelements.com/bb/bb_one2n.js'></script>
+<script type='text/javascript'>/* <![CDATA[ */ 
+if(typeof bbkeywords == "undefined") var bbkeywords='TOP; Charts; Topas; Topai; European Hit Radio; TOP 40'; //fill in page keywords separated by ';' e.g. 'audi;ford;fiat'
+bmone2n.addPosition('15042.1.6.3','');
+bmone2n.addPosition('15042.1.2.1','');
+bmone2n.addPosition('15042.1.10.2','');
+bmone2n.getAd('go.adlt.bbelements.com',bbkeywords,''+(typeof(bburlparam)=='string'?'&'+bburlparam:''),'utf-8');
+/* ]]> */</script>
+<div id='bmone2t-15042.1.6.3' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('15042.1.6.3'); /* ]]> */</script></div>
+<div id='bmone2t-15042.1.2.1' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('15042.1.2.1'); /* ]]> */</script></div>
+<div id='bmone2t-15042.1.10.2' style='display:none'><script type='text/javascript'>/* <![CDATA[ */ bmone2n.makeAd('15042.1.10.2'); /* ]]> */</script></div>
+<script type='text/javascript'>/* <![CDATA[ */ bmone2n.moveAd(); /* ]]> */</script>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56c229297c1aa285" async="async"></script>
+
+<script type='text/javascript' src='http://www.europeanhitradio.lt/wp-includes/js/wp-embed.min.js?ver=4.9.10'></script>
+		<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
+
+		<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&#038;render=explicit" async defer></script>
+</body>
+</html>
